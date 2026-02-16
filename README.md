@@ -1,2 +1,2 @@
 Hello git
-Learning Git basics
+Learning Git basics through Integrative programming
